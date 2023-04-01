@@ -13,6 +13,7 @@ export default function Home() {
         <p>
           My name is Hongjun lee.<br/>
           I'd like to play computer game!
+          https://nextjs.org/learn/basics/data-fetching/two-forms
         </p>
       </section>
     </Layout>
